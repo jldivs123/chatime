@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #e5e7ea;
+  width: 100% !important;
+  height: 100% !important;
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('../../static/img/android.png');
+}
